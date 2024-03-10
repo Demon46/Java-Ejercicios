@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Ejercicios.iml" filepath="$PROJECT_DIR$/.idea/Java_Ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio_bucle_centinela/ejercicio_bucle_centinela.iml" filepath="$PROJECT_DIR$/ejercicio_bucle_centinela/ejercicio_bucle_centinela.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio_limite/ejercicio_limite.iml" filepath="$PROJECT_DIR$/ejercicio_limite/ejercicio_limite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio_sueldos/ejercicio_sueldos.iml" filepath="$PROJECT_DIR$/ejercicio_sueldos/ejercicio_sueldos.iml" />
+    </modules>
+  </component>
+</project>
