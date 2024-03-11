@@ -6,9 +6,17 @@ public class Main {
 
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Ingresa la palabra: ");
-        String palabra = entrada.next();
-        String minus = palabra.toLowerCase();
+        String palabra = "";
+
+        System.out.println("Ingresa la palabra hasta salir del bucle");
+
+        while (!palabra.equals("salir")){
+
+            palabra = entrada.next();
+            palabra = palabra.toLowerCase();
+            System.out.println("!" + palabra);
+
+        }
 
         
 
